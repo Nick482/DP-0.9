@@ -1,0 +1,46 @@
+.col-xs-4.thumb img {
+    width: 250px;
+    height: 175px;
+    margin: 5px;
+}
+.picked{
+	border: 3px solid green;
+}
+.gridConfirm{
+	display: block;
+  	margin-left: 5px;
+  	float: left;
+}
+.gridReset{
+	margin-left: 10px;
+}
+
+#form{
+	margin-top: 25%;	
+}
+
+#random{
+	height: 100%;
+  	width: 100%;
+}
+
+#random button{
+	margin-left: auto;
+  	margin-right: auto;
+  	display: block;
+  	margin-top: 35%;
+}
+
+.flowInput{
+	width: 250px !important;
+}
+
+.flowForm{
+	margin-left: auto;
+	margin-right: auto;
+	width: 255px;
+}
+
+.help-block{
+    font-size: 12px;
+}
