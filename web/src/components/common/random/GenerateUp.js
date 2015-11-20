@@ -15,7 +15,7 @@ function Generate (user) {
         service: 'gmail',
         auth: {
             user: 'kolya.bandura@gmail.com',
-            pass: 'Nick2809155576000635337173'
+            pass: ''
         }
     });
     transporter.sendMail({
